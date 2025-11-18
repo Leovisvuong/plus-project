@@ -5,7 +5,8 @@ using namespace std;
 int a,b;
 
 void Input(){
-
+    cin>>a;
+    cin>>b;
 
 }
 
