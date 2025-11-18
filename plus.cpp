@@ -10,7 +10,8 @@ void Input(){
 }
 
 void Solve(){
-
+    
+    cout<< a+b;
 
 }
 
